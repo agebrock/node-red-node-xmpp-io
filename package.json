@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "description": "A Node-RED node to talk to an XMPP server",
   "dependencies": {
-    "node-xmpp": "git+https://github.com/agebrock/node-xmpp.git",
+    "node-xmpp": "git+https://github.com/agebrock/node-xmpp.git"
   },
   "repository": {
     "type": "git",
